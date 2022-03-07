@@ -1,10 +1,10 @@
 # Water Quality
 ![alt text](https://github.com/mauro3001/proyecto-ia/blob/main/water-quality.png)
 ## Introducción
-Este proyecto busca evaluar las sustancias físico-químicas que se presentan en el agua, utilizando modelos de clasificación. Para esto, se harán tres análisis, en el primero se estudia dataset original con base a las métricas impuestas en este mismo, en el segundo se efectuaron unas modificaciones del dataset original para ajustarlo a los estándares de la calidad del agua según la OMS y según estas métricas se evaluarán los rangos óptimos de cada sustancia para así encontrar si cumple las condiciones del consumo humano. Por último, se trabaja el dataset modificado, pero con la información balanceada para observar su comportamiento.
+Este proyecto busca evaluar las sustancias físico-químicas que se presentan en el agua, utilizando modelos de clasificación. Para esto, se harán tres análisis, en el primero se estudia el dataset original con base a las métricas impuestas en este mismo, en el segundo se efectuaron unas modificaciones al dataset original para ajustarlo a los estándares de calidad del agua según la OMS y según estas métricas se evaluarán los rangos óptimos de cada sustancia para así encontrar si cumple las condiciones del consumo humano. Por último, se trabaja el dataset modificado, pero con la información balanceada para observar su comportamiento.
 
 ## Objetivo
-Evaluación de sustancias físico-químicas en el agua según los estándares de la OMS.
+Evaluar sustancias físico-químicas presentes en el agua, según diversos estándares.
 
 ## Presentado por:
 Mauricio Alejandro Romero Jaimes , Daniel Baez Acevedo
