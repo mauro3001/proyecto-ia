@@ -1,23 +1,21 @@
 # Water Quality
-![alt text]()
-##Introduccion
-Nos permite evaluar las sustancias fisico-quimicas (bario-amonio-mercurio),que se presentan en el agua y segun los estandares de los OMS, podremos determinar si es un agua apto para el consumo humano.
-
-Para esto, se harán dos evaluaciones, una de las muestras obtenidas en el dataset con respecto a las métricas impuestas en el dataset y otra con respecto a los estandares de la calidad del agua de la OMS, se evaluará los rangos optimos de cada sustancia y asi encontrar si cumple las condiciones del consumo humano.
+![alt text](https://github.com/mauro3001/proyecto-ia/blob/main/banner.png)
+## Introducción
+Este proyecto busca evaluar las sustancias físico-químicas que se presentan en el agua, utilizando modelos de clasificación. Para esto, se harán tres análisis, para el primero se estudia dataset original realizando con base a las métricas impuestas en este mismo, en el segundo se efectuaron unas modificaciones del dataset original para ajustarlo a los estándares de la calidad del agua según la OMS y según estas métricas se evaluarán los rangos óptimos de cada sustancia para así encontrar si cumple las condiciones del consumo humano. Por último, se trabaja el dataset modificado, pero con la información balanceada para observar su comportamiento.
 
 ## Objetivo
-Evaluacion de sustancias fisico-quimicas en el agua, según los estándares de la OMS.
+Evaluación de sustancias físico-químicas en el agua según los estándares de la OMS.
 
 ## Presentado por:
-Mauricio Romero Jaimes , Daniel Baez Acevedo
+Mauricio Alejandro Romero Jaimes , Daniel Baez Acevedo
 
 
 ###### Modelos:
 - Gaussian NB 
-- RandomForestClassifier -
+- RandomForestClassifier
 - DecisionTreeClassifier 
-- SuportVectorClassifier.
-- 
+- SuportVectorMachine (SVM)
+
 ###### Dataset: [Calidad del agua](https://www.kaggle.com/mssmartypants/water-quality).
 ###### Dataset: [Calidad del agua- Modificado](https://drive.google.com/file/d/1LYTYoqIYjKb2Pv_w0GaO4ETKpalotR36/view?usp=sharing)
 ###### Vídeo: [Water Quality - proyecto ia].(https://www.youtube.com/watch?v=z_xDHXIuWpE)
